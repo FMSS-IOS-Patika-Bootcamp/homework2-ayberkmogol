@@ -1,17 +1,29 @@
-# HomeWork2
-İkinci Ödev
 
-          Haber Uygulaması
-- İlk sayfada Haberler Listelenicek.
-- Haberler   TableView yada # CollecitionView ile gösterilecek.
-- Habere tıklanınca  ilgili Haberin detay sayfası acılıcak.
-- Geçişler  Navigation Controller ile gerçekleştirilicek.
-- Haber Detayına gecerken Struct gönderip. Detay sayfasında Navigation Title bu structan alınıcak.
-- Detay sayfasındaki Description ( Açıklama ) bölümü gönderdiğimiz Streuctan alınıcak.
-- Detay sayfasının Description ( Acıklama ) bölümüne 20 px aralık ile Bir buton konumlandırılıcak. 
-- Detay sayfasındaki Butona bastığımızda 3. bir ekrana gidilicek.
-- 3. Ekranımızda Webview olucak ve ilgili Habere yönlendirilicek ( Burada istediğiniz siteye yönlendirme yapabilirsiniz Dumyy Haberlerle çalışıcaksınız. Örnek: https://www.google.com.tr/  )
+# NewsApp 😘🧵🪡
+
+Just read random news
 
 
-# CollectionView da bir row da 2 ve daha fazla Haber gösterebilen extra puan alıcaktır.
-- İsteyen Uygulamasını Icon Koyabilir.
+## Installation
+
+Clone, Download the Repository
+
+```bash
+and run with Xcode
+```
+
+
+## Screenshots
+
+<p align="center">
+  <img alt="NewsApp" src="https://github.com/aybarska/NewsApp-uikit/blob/main/ScreenShots/06Times1.png" width="45%">
+    
+    
+  <img alt="NewsApp" src="https://github.com/aybarska/NewsApp-uikit/blob/main/ScreenShots/06Times2.png" width="45%">
+    
+</p>
+    
+    
+<p>
+  <img alt="NewsApp" src="https://github.com/aybarska/NewsApp-uikit/blob/main/ScreenShots/06Times3.png" width="70%">
+</p>
